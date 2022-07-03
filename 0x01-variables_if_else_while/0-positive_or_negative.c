@@ -7,7 +7,7 @@
  * variable n each time it is executed.
  * Return : 0
 */
-main(void)
+int main(void)
 {
 	int n;
 
