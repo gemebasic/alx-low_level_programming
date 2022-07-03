@@ -19,11 +19,11 @@ int main(void)
 	}
 	if (n % 10 == 0)
 	{
-		printf("last digit of %d is %d and is zero", n, n % 10);
+		printf("Last digit of %d is %d and is zero", n, n % 10);
 	}
 	if (n % 10 < 5)
 	{
-		printf("the lastdigit of %d is %d and is less than 6 and not 0", n, n % 10);
+		printf("Last digit of %d is %d and is less than 6 and not 0", n, n % 10);
 	}
 	return (0);
 }
