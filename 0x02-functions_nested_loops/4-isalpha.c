@@ -2,8 +2,8 @@
 
 /**
  * _isalpha-> display char
- * Return: return 0 or 1
  * @c: argument for int
+ * Return: return 0 or 1
  */
 int _isalpha(int c)
 {
