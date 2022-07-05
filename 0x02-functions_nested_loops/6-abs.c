@@ -13,6 +13,7 @@ int _abs(int n)
 	}
 	else
 	{
-		putchar(-n);
+		n = -n
+		putchar(n);
 	}
 }
