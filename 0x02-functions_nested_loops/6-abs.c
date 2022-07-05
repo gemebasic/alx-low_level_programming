@@ -13,7 +13,7 @@ int _abs(int n)
 	}
 	else
 	{
-		n = -n
+		n = -n;
 		putchar(n);
 	}
 }
