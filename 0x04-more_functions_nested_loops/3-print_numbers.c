@@ -2,7 +2,6 @@
 
 /**
  * print_numbers-> code to preint number
- * Return: always return 0
  */
 void print_numbers(void)
 {
