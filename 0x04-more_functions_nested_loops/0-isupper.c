@@ -8,13 +8,5 @@
  */
 int _isupper(int c)
 {
-	if (c == '65' && c <= '91')
-	{
-		return (1);
-	}
-	else
-	{
-		return (0);
-	}
-	_putchar('\n');
+	return (c >= 'A' && c <= 'Z');
 }
