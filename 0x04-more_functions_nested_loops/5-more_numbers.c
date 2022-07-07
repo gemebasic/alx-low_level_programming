@@ -1,8 +1,6 @@
 #include "main.h"
 /**
  * more_numbers-> display number msny times
- *
- *
  */
 void more_numbers(void)
 {

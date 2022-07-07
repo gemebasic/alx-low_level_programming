@@ -2,8 +2,6 @@
 
 /**
  * print_most_numbers-> print most nuber
- *
- *
  */
 void print_most_numbers(void)
 {
