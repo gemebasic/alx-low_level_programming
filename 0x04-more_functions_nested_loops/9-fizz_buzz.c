@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main- main function
+ * fuz_buz-> main function
  * Return: awyas returns 0
  */
 void fuz_buz(void)
