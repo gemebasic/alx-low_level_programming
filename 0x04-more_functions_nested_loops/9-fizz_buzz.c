@@ -1,10 +1,10 @@
-#include "main.h"
+#include <stdio.h>
 
 /**
- * fuz_buz-> main function
+ * main-> main function
  * Return: awyas returns 0
  */
-void fuz_buz(void)
+int main(void)
 {
 	int i;
 
