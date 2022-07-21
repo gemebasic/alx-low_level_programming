@@ -3,7 +3,6 @@
 /**
  * _puts_recursion-> functiom
  * @s: argumemnt
- * @Return: return value
  */
 void _puts_recursion(char *s)
 {
