@@ -13,7 +13,7 @@ int **alloc_grid(int width, int height)
 
 	if (width <= 0 || height <= 0)
 		return (NULL);
-	a = mallo(height * sizeof(int *));
+	a = malloc(height * sizeof(int *));
 	if (a == NULL)
 	{
 		free(a);
@@ -21,7 +21,7 @@ int **alloc_grid(int width, int height)
 	}
 	for (i = 0; i < height; i++)
 	{
-		a[i] = mallo(width * sizeof(int));
+		a[i] = malloc(width * sizeof(int));
 		if (a[i] == NULL)
 		{
 			for (j = i; j >= 0; j--)
